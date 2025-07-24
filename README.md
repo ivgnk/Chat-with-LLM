@@ -31,7 +31,7 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 
 ### Grok / xAI               
 2025/07/21 [Grok 4 — самая умная модель? Обзор новой нейросети от Илона Маска](https://habr.com/ru/companies/bothub/articles/929688/)        
-[Context window](https://habrastorage.org/r/w1560/getpro/habr/upload_files/515/bac/9bc/515bac9bc8ed532fee6e68ceda8cbc5a.png)                  
+![Context window](https://habrastorage.org/r/w1560/getpro/habr/upload_files/515/bac/9bc/515bac9bc8ed532fee6e68ceda8cbc5a.png)                  
 
 
 ### Qwen / Alibaba             
