@@ -18,8 +18,8 @@ https://www.youtube.com/results?search_query=LLM
 https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=2353835                    
 
 ## Github
-**https://github.com/topics/llm**
-**https://github.com/topics/ai**                    
+**https://github.com/topics/llm**                    
+**https://github.com/topics/ai**                      
 https://github.com/topics/artificial-intelligence               
 https://github.com/topics/openai               
 https://github.com/topics/gpt-4                     
