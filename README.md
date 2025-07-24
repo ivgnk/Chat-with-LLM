@@ -30,7 +30,7 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 
 ## individual AI'S
 
-### DeepSeek
+### DeepSeek / China
 2025/06/29 [Запускаем настоящую DeepSeek R1 671B на игровом ПК и смотрим вменяемая ли она на огромном контексте (160к)](https://habr.com/ru/articles/921540/)              
 ОП минимум можно попробовать 128 Гб/192 Гб                  
 Характеристики испытуемого ПК:               
@@ -43,10 +43,12 @@ GPU: 4060 Ti 16gb, 4090 24gb
 2025/07/21 [Grok 4 — самая умная модель? Обзор новой нейросети от Илона Маска](https://habr.com/ru/companies/bothub/articles/929688/)        
 ![Context window](https://habrastorage.org/r/w1560/getpro/habr/upload_files/515/bac/9bc/515bac9bc8ed532fee6e68ceda8cbc5a.png)                  
 
-
 ### Qwen / Alibaba             
 2025/07/21 [Alibaba выпустила «самую мощную» ИИ-модель для программирования — Qwen3-Coder](https://habr.com/ru/companies/bothub/news/930392/)             
 
+
+### Hunyuan / China                 
+2025/07/10 [Туториал: запускаем Hunyuan-A13B модель на vLLM и на llama.cpp](https://habr.com/ru/articles/926438/)                   
 
 ## LLM Tools            
 2025/05/23 [Что можно делать в Google AI Studio для начинающих, краткий обзор](https://habr.com/ru/articles/912230/)                  
