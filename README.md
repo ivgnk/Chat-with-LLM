@@ -30,6 +30,7 @@ https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0
 
 ### RUS                    
 **[Habr Hub: Искусственный интеллект](https://habr.com/ru/hubs/artificial_intelligence/)**                  
+**[opennet.ru: AI](https://www.opennet.ru/keywords/ai.html)**
 
 2025/03/ [Русскоязычные LLM: отечественные разработки в сравнении с глобальными адаптациями](https://habr.com/ru/companies/korus_consulting/articles/888568/)           
 2024/12/ [Группа «Т-Технологии» представила лучшие в мире открытые большие языковые модели на русском языке](https://www.tbank.ru/about/news/11122024-the-t-technologies-group-has-introduced-the-worlds-most-efficient-open-large-language-models-in-russian/)             
