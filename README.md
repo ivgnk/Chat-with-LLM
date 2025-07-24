@@ -19,7 +19,8 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 
 ## LLM lists              
 2025/06/10 https://github.com/ivgnk/Book-publishing#free-llm-list                      
-2025/04/22 [Бесплатные чаты с LLM без регистрации](https://github.com/ivgnk/DS-ML-DL-AI/blob/master/README.md#%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%87%D0%B0%D1%82%D1%8B-%D1%81-llm-%D0%B1%D0%B5%D0%B7-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8)         
+2025/04/22 [Бесплатные чаты с LLM без регистрации](https://github.com/ivgnk/DS-ML-DL-AI/blob/master/README.md#%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%87%D0%B0%D1%82%D1%8B-%D1%81-llm-%D0%B1%D0%B5%D0%B7-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8)     
+2025/03/29 [Топ-9 бесплатных китайских нейросетей в 2025 году](https://habr.com/ru/companies/bothub/articles/895482/)        
 
 ### RUS                    
 2025/03/ [Русскоязычные LLM: отечественные разработки в сравнении с глобальными адаптациями](https://habr.com/ru/companies/korus_consulting/articles/888568/)           
@@ -31,6 +32,12 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 
 ### DeepSeek
 2025/06/29 [Запускаем настоящую DeepSeek R1 671B на игровом ПК и смотрим вменяемая ли она на огромном контексте (160к)](https://habr.com/ru/articles/921540/)              
+ОП минимум можно попробовать 128 Гб/192 Гб                  
+Характеристики испытуемого ПК:               
+CPU: i7-14700                 
+Материнка: GIGABYTE Z790 D AX                   
+ОЗУ: 4x 48gb Kingbank DDR5 4800 MT/s                        
+GPU: 4060 Ti 16gb, 4090 24gb                          
 
 ### Grok / xAI               
 2025/07/21 [Grok 4 — самая умная модель? Обзор новой нейросети от Илона Маска](https://habr.com/ru/companies/bothub/articles/929688/)        
@@ -42,8 +49,12 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 
 
 ## LLM Tools            
-Alibaba выпустила «самую мощную» ИИ-модель для программирования — Qwen3-Coder 
 2025/05/23 [Что можно делать в Google AI Studio для начинающих, краткий обзор](https://habr.com/ru/articles/912230/)                  
+
+Чтобы просто запустить локально любую небольшую модель, достаточно скачать           
+https://lmstudio.ai                    
+https://jan.ai                   
+
 
 # Chat-with-LLM     
 Chat with LLM
