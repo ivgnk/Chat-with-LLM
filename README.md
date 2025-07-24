@@ -38,6 +38,7 @@ https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0
 27.06.2024 [Рейтинг открытости генеративных AI-моделей](https://www.opennet.ru/opennews/art.shtml?num=61448)                                       
 - - - -
 ### Lists              
+2025/07/23 [Фабрика данных 2030: от GAN-конвейеров до каузальных сетей — кто отвечает за рождение синтетической реальности](https://habr.com/ru/articles/930132/)             
 2025/07/22 [Как разные нейросети — ChatGPT, Claude, DeepSeek — решают эти 4 маркетинговые задачи](https://habr.com/ru/articles/929216/)          
 2025/07/22 [Умный поиск по заметкам: как оживить «второй мозг» с помощью RAG](https://habr.com/ru/articles/929692/)       
 
@@ -50,6 +51,9 @@ https://www.reddit.com/r/artificial/
                  
 ### RUS                    
 **[Habr Hub: Искусственный интеллект](https://habr.com/ru/hubs/artificial_intelligence/)**                  
+https://habr.com/ru/hubs/bigdata           
+https://habr.com/ru/hubs/machine_learning                  
+
 **[opennet.ru: AI](https://www.opennet.ru/keywords/ai.html)**               
 **https://www.linux.org.ru**              
 https://www.linux.org.ru/tag/искусственный%20интеллект                  
