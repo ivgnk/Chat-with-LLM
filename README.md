@@ -29,6 +29,9 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 
 ## individual AI'S
 
+### DeepSeek
+2025/06/29 [Запускаем настоящую DeepSeek R1 671B на игровом ПК и смотрим вменяемая ли она на огромном контексте (160к)](https://habr.com/ru/articles/921540/)              
+
 ### Grok / xAI               
 2025/07/21 [Grok 4 — самая умная модель? Обзор новой нейросети от Илона Маска](https://habr.com/ru/companies/bothub/articles/929688/)        
 ![Context window](https://habrastorage.org/r/w1560/getpro/habr/upload_files/515/bac/9bc/515bac9bc8ed532fee6e68ceda8cbc5a.png)                  
