@@ -18,6 +18,12 @@ https://www.youtube.com/results?search_query=LLM
 https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=2353835                    
 
 ## LLM lists              
+### Ratings
+https://opensource.org/ai                           
+https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0-8                           
+27.06.2024 [Рейтинг открытости генеративных AI-моделей](https://www.opennet.ru/opennews/art.shtml?num=61448)                                       
+- - - -
+### Lists              
 2025/06/10 https://github.com/ivgnk/Book-publishing#free-llm-list                      
 2025/04/22 [Бесплатные чаты с LLM без регистрации](https://github.com/ivgnk/DS-ML-DL-AI/blob/master/README.md#%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%87%D0%B0%D1%82%D1%8B-%D1%81-llm-%D0%B1%D0%B5%D0%B7-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8)     
 2025/03/29 [Топ-9 бесплатных китайских нейросетей в 2025 году](https://habr.com/ru/companies/bothub/articles/895482/)        
