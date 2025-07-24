@@ -39,6 +39,9 @@ https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0
 - - - -
 ### Lists              
 2025/07/23 [Фабрика данных 2030: от GAN-конвейеров до каузальных сетей — кто отвечает за рождение синтетической реальности](https://habr.com/ru/articles/930132/)             
+
+2025/07/23 [Книга: «RAG и генеративный ИИ. Создаем собственные RAG-пайплайны с помощью LlamaIndex, Deep Lake и Pinecon»](https://habr.com/ru/companies/piter/articles/929678/)              
+
 2025/07/22 [Как разные нейросети — ChatGPT, Claude, DeepSeek — решают эти 4 маркетинговые задачи](https://habr.com/ru/articles/929216/)          
 2025/07/22 [Умный поиск по заметкам: как оживить «второй мозг» с помощью RAG](https://habr.com/ru/articles/929692/)       
 
