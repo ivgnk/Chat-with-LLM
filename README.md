@@ -17,6 +17,16 @@ https://ru.wikipedia.org/wiki/GigaChat
 https://www.youtube.com/results?search_query=LLM         
 https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=2353835                    
 
+## Github
+**https://github.com/topics/llm**
+**https://github.com/topics/ai**                    
+https://github.com/topics/artificial-intelligence               
+https://github.com/topics/openai               
+https://github.com/topics/gpt-4                     
+https://github.com/topics/gpt-5                     
+https://github.com/topics/llama-api             
+https://github.com/topics/image-generation               
+
 ## LLM lists              
 ### Ratings
 https://opensource.org/ai                           
@@ -28,9 +38,18 @@ https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0
 2025/04/22 [Бесплатные чаты с LLM без регистрации](https://github.com/ivgnk/DS-ML-DL-AI/blob/master/README.md#%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%87%D0%B0%D1%82%D1%8B-%D1%81-llm-%D0%B1%D0%B5%D0%B7-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8)     
 2025/03/29 [Топ-9 бесплатных китайских нейросетей в 2025 году](https://habr.com/ru/companies/bothub/articles/895482/)        
 
+### ENG
+https://www.reddit.com/r/artificial/             
+                 
 ### RUS                    
 **[Habr Hub: Искусственный интеллект](https://habr.com/ru/hubs/artificial_intelligence/)**                  
-**[opennet.ru: AI](https://www.opennet.ru/keywords/ai.html)**
+**[opennet.ru: AI](https://www.opennet.ru/keywords/ai.html)**               
+**https://www.linux.org.ru**              
+https://www.linux.org.ru/tag/искусственный%20интеллект                  
+https://www.linux.org.ru/tag/openai           
+https://www.linux.org.ru/tag/chatgpt          
+https://www.linux.org.ru/tag/whisper (автоматическое распознавание речи)                     
+
 
 2025/03/ [Русскоязычные LLM: отечественные разработки в сравнении с глобальными адаптациями](https://habr.com/ru/companies/korus_consulting/articles/888568/)           
 2024/12/ [Группа «Т-Технологии» представила лучшие в мире открытые большие языковые модели на русском языке](https://www.tbank.ru/about/news/11122024-the-t-technologies-group-has-introduced-the-worlds-most-efficient-open-large-language-models-in-russian/)             
