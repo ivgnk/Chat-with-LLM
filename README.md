@@ -23,6 +23,8 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 2025/03/29 [Топ-9 бесплатных китайских нейросетей в 2025 году](https://habr.com/ru/companies/bothub/articles/895482/)        
 
 ### RUS                    
+**[Hub: Искусственный интеллект](https://habr.com/ru/hubs/artificial_intelligence/)**                  
+
 2025/03/ [Русскоязычные LLM: отечественные разработки в сравнении с глобальными адаптациями](https://habr.com/ru/companies/korus_consulting/articles/888568/)           
 2024/12/ [Группа «Т-Технологии» представила лучшие в мире открытые большие языковые модели на русском языке](https://www.tbank.ru/about/news/11122024-the-t-technologies-group-has-introduced-the-worlds-most-efficient-open-large-language-models-in-russian/)             
 2024/12/ [Русскоязычные LLM: могут ли они заменить ChatGPT](https://just-ai.com/blog/russkoyazychnye-llm-mogut-li-oni-zamenit-chatgpt)            
