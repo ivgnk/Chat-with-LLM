@@ -85,6 +85,8 @@ GPU: 4060 Ti 16gb, 4090 24gb
 https://lmstudio.ai                    
 https://jan.ai                   
 
+https://bothub.chat                    
+
 
 # Chat-with-LLM     
 Chat with LLM
