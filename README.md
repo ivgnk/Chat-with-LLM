@@ -1,4 +1,19 @@
 # LLM        
+## Wiki        
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence                       
+
+https://en.wikipedia.org/wiki/Natural_language_processing                
+https://en.wikipedia.org/wiki/Large_language_model                  
+
+https://en.wikipedia.org/wiki/Category:Natural_language_processing                 
+https://en.wikipedia.org/wiki/Category:Computational_linguistics           
+https://en.wikipedia.org/wiki/Category:Computational_fields_of_study                    
+
+https://ru.wikipedia.org/wiki/BLOOM             
+https://ru.wikipedia.org/wiki/OpenAI               
+https://ru.wikipedia.org/wiki/Cursor_AI                      
+https://ru.wikipedia.org/wiki/GigaChat                 
+
 https://www.youtube.com/results?search_query=LLM         
 https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=2353835                    
 
@@ -11,6 +26,10 @@ https://yandex.ru/search/?text=Русские+онлайн+LLM&lr=50&clid=235383
 2024/12/ [Группа «Т-Технологии» представила лучшие в мире открытые большие языковые модели на русском языке](https://www.tbank.ru/about/news/11122024-the-t-technologies-group-has-introduced-the-worlds-most-efficient-open-large-language-models-in-russian/)             
 2024/12/ [Русскоязычные LLM: могут ли они заменить ChatGPT](https://just-ai.com/blog/russkoyazychnye-llm-mogut-li-oni-zamenit-chatgpt)            
 2024/09/ [Тестируем LLM для русского языка: Какие модели справятся с вашими задачами?](https://www.technologika.ru/blog/testing-llm-with-russian-language)                  
+
+## individual AI'S
+
+
 
 
 ## LLM Tools            
